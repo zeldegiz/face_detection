@@ -1,5 +1,5 @@
 #import library
-import cv2
+import cv2#opencv version is 4.5.1
 
 #face detection function
 def face_detect(img_path):
